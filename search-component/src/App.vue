@@ -1,15 +1,13 @@
 <template>
   <div id="app">
     <div class="container"></div>
-    <search />
     <router-view/>
   </div>
 </template>
 <script>
-import Search from './components/Search';
 export default {
   components: {
-    Search
+    // Search
   }
 }
 </script>

@@ -14,5 +14,8 @@ VUE 文档  MVVM  组件化思维
   1. 安装下iview   i-input   tag  
 
 - 注册组件设计
-  1. 栅格系统
+  1. 栅格系统 
+  row + col iview 
   2. vue-router 结合  注册的三个过程
+  
+
